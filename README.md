@@ -17,11 +17,10 @@ This project is a Mealy machine-based serial bit pattern detector designed to de
 
 ## Circuit Diagram
 ![image](https://github.com/user-attachments/assets/8c31b9d6-fb52-487a-9be5-0511d04d4fe6)
+## Arduino Simulation
+![image](https://github.com/user-attachments/assets/c179dd1a-3737-47ce-a337-1127ba1f4fcd)
+## Simulation link of Arduino 
+https://wokwi.com/projects/403477979726779393
 
 
-## Arduino Code
-The Arduino code handles the input sequence generation and clock signal.
-
-```cpp
-// Arduino code here
 
