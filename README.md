@@ -96,9 +96,9 @@ The Arduino setup allows users to choose between 4 preloaded sequences or manual
 - Use the [**Wokwi Simulation Link**](https://wokwi.com/projects/403477979726779393) to test and debug the Arduino setup virtually.
 
 ## Demonstration
-### **Working Video** 
+### [**Working Video**](https://drive.google.com/file/d/1e9sKfp7f6pbbqBhNI2wa3m3wex3zO72O/view?usp=drive_link)
 
-<video controls src="main.mp4" title="Title"></video>
+
 
 ## Conclusion 
 
