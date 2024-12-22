@@ -98,7 +98,7 @@ The Arduino setup allows users to choose between 4 preloaded sequences or manual
 ## Demonstration
 ### **Working Video** 
 
-<video controls src="main.mp4" title="main"></video>
+<video controls src="main.mp4" title="Title"></video>
 
 ## Conclusion 
 
